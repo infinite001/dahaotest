@@ -1,4 +1,4 @@
-<?ph
+<?php
 
 echo exec('whoami');
 
